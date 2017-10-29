@@ -1,0 +1,22 @@
+###TEMPORARY FILES###
+Thumbs.db
+*~
+*.tmp
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+*.~vsdx
+*.lock
+
+.vagrant/
+vendor/
+config/development.config.php
+data/cache/*
+!data/cache/.gitkeep
+phpunit.xml
+*.sublime*
+docker-compose.yml
+Dockerfile
+Vagrantfile
+composer.*
